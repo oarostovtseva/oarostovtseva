@@ -42,8 +42,11 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=oarostovtseva&show_icons=true" alt="tomkaX" />
-  <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
+  <img src="https://github-readme-stats.vercel.app/api?username=oarostovtseva&show_icons=true" alt="oarostovtseva" />
+ </p>
+ 
+ <p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=oarostovtseva&show_icons=true&hide=contribs,issues&count_private=true" />
  </p>
 
 <p align="center">
