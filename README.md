@@ -38,15 +38,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **oarostovtseva@gmail.com**
-
-
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=oarostovtseva&show_icons=true" alt="oarostovtseva" />
- </p>
  
  <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=oarostovtseva&show_icons=true&hide=contribs,issues&count_private=true" />
+ </p>
+ 
+ <p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarostovtseva" />
  </p>
 
 <p align="center">
