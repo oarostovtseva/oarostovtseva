@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Olena Rostovtseva </h1>
 <h3 align="center">A passionate Android/IOS Developer  </h3>
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=oarostovtseva" alt="oarostovtseva" />
 
@@ -34,10 +32,6 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/oarostovtseva?tab=repositories)
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **oarostovtseva@gmail.com**
  
  <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=oarostovtseva&show_icons=true&hide=contribs,issues&count_private=true" />
